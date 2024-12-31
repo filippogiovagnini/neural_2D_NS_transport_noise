@@ -1,4 +1,4 @@
-Neural approximation of an interacting particle system for the 2D Navier Stokes equations with transport noise
+**Neural approximation of an interacting particle system for the 2D Navier Stokes equations with transport noise**
 
 31/12/2024 - some experiments:
 
