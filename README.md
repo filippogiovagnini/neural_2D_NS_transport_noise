@@ -7,17 +7,19 @@ CPU used: MacBookPro 2020 M1
 
 Number of particles will be denoted with N:
 
-N = 128
+N = 128 - 
 GPU: 7.05s
 CPU: 5.70s
 
-N = 256
+N = 256 - 
 GPU: 21.77s
 CPU: 72.79s
 
-N = 512
+N = 512 - 
 GPU: 271.18s
-CPU: 
 
-N = 700
-GPU: "Can't reduce memory use below 16.70GiB (17930411104 bytes) by rematerialization; only reduced to 34.76GiB (37328716712 bytes), down from 34.76GiB (37328716712 bytes) originally"
+N = 570 - 
+GPU: 384.81s
+
+N = 700 - 
+GPU: I got the following message: "Can't reduce memory use below 16.70GiB (17930411104 bytes) by rematerialization; only reduced to 34.76GiB (37328716712 bytes), down from 34.76GiB (37328716712 bytes) originally"
