@@ -21,5 +21,8 @@ GPU: 271.18s
 N = 570 - 
 GPU: 384.81s
 
+N = 580 - 
+GPU: 446.28s
+
 N = 700 - 
 GPU: I got the following message: "Can't reduce memory use below 16.70GiB (17930411104 bytes) by rematerialization; only reduced to 34.76GiB (37328716712 bytes), down from 34.76GiB (37328716712 bytes) originally"
