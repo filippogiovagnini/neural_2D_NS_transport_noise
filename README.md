@@ -18,3 +18,6 @@ CPU: 72.79s
 N = 512
 GPU: 271.18s
 CPU: 
+
+N = 700
+GPU: "Can't reduce memory use below 16.70GiB (17930411104 bytes) by rematerialization; only reduced to 34.76GiB (37328716712 bytes), down from 34.76GiB (37328716712 bytes) originally"
